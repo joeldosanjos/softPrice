@@ -36,6 +36,8 @@ processo, desde que seja importado um banco de dados MySQL com o nome **softpric
 8. Navegue até a pasta **bin/debug** e abra o software pelo arquivo **softPrice.exe**
 9. Agora é só utilizar o SoftPrice. Aproveite! 😁
 
+*Obs:* Caso possua alguma configuração diferente no seu servidor MySQL local, o arquivo que estabelece conexão com o banco de dados está na pasta **Controller/Conexao.cs**
+
 ## 🛠 Tecnologias
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [.NET](https://dotnet.microsoft.com/)
