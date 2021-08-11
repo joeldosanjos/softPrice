@@ -42,3 +42,4 @@ processo, desde que seja importado um banco de dados MySQL com o nome **softpric
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [.NET](https://dotnet.microsoft.com/)
   - [Windows Forms](https://docs.microsoft.com/pt-br/dotnet/desktop/winforms/overview/?view=netdesktop-5.0)
+- [MySQL](https://www.mysql.com/)
